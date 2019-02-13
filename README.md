@@ -1,2 +1,4 @@
 # planets
 * Mercury
+* Venus
+* Earth
